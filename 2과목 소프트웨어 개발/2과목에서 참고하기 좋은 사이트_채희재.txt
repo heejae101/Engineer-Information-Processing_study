@@ -1,0 +1,8 @@
+파이썬으로 알려주는 유용한 사이트
+https://www.daleseo.com/
+
+정렬알고리즘 종류와 속도를 알 수 있는 사이트
+https://www.toptal.com/developers/sorting-algorithms
+
+다양한 알고리즘을 쉽게 볼 수 있는 사이트
+https://visualgo.net/en
