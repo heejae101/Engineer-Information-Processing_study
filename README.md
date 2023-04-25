@@ -20,6 +20,7 @@
     1과목 요구사항 확인 - 채희재<br>
     1과목 화면설계 - 황인규<br>
     1과목 애플리케이션 설계 - 조수빈<br>
+    - [OSI 7 계층](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/OSI%207%20계층.md)
   </p>
   <p>
     4월 21일 금요일 스터디<br>
